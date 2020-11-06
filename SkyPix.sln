@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyPix", "SkyPix.csproj", "{E04CF7B5-1295-429F-BD85-99005F861E03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyPixCH", "..\SkyPixCH\SkyPixCH.csproj", "{45E1E6A9-DA6E-4BFF-A102-E319C113FFF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E04CF7B5-1295-429F-BD85-99005F861E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04CF7B5-1295-429F-BD85-99005F861E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04CF7B5-1295-429F-BD85-99005F861E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04CF7B5-1295-429F-BD85-99005F861E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E1E6A9-DA6E-4BFF-A102-E319C113FFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E1E6A9-DA6E-4BFF-A102-E319C113FFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E1E6A9-DA6E-4BFF-A102-E319C113FFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E1E6A9-DA6E-4BFF-A102-E319C113FFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DE07382-3FDA-4C51-BEE8-E6E15425B0AE}
+	EndGlobalSection
+EndGlobal

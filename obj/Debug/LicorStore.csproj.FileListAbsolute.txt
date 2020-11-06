@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\LicorStore\bin\Debug\LicorStore.exe.config
+C:\Users\pc\source\repos\LicorStore\bin\Debug\LicorStore.exe
+C:\Users\pc\source\repos\LicorStore\bin\Debug\LicorStore.pdb
+C:\Users\pc\source\repos\LicorStore\obj\Debug\LicorStore.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\LicorStore\obj\Debug\LicorStore.Login.resources
+C:\Users\pc\source\repos\LicorStore\obj\Debug\LicorStore.Properties.Resources.resources
+C:\Users\pc\source\repos\LicorStore\obj\Debug\LicorStore.Registro.resources
+C:\Users\pc\source\repos\LicorStore\obj\Debug\LicorStore.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\LicorStore\obj\Debug\LicorStore.exe
+C:\Users\pc\source\repos\LicorStore\obj\Debug\LicorStore.pdb
